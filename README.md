@@ -21,10 +21,24 @@ docker exec -it ID_CONTENEDOR bash
 `
 
 ## Comandos útiles aprendidos
-Construir una imagen desde un Dockerfile: `docker build` 
+Construir una imagen desde un Dockerfile: `docker build`
+
+
 Procesos ejecutados por Docker: `docker ps`
+
+
 Descargar una imagen: `docker pull`
+
+
 Listar imagenes: `docker image ls`
+
+
 Listar contenedores: `docker container ls`
+
+
 Eliminar imágenes: `docker rmi`
+
+
 Eliminar contenedores: `docker rm`
+
+
